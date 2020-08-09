@@ -11,6 +11,7 @@ bisa digunakan sebagai referensi ^^
 
 ## Teknologi
 1. Firebase
+2. Kotlin
 
 # Source
 Adi Nugraha Putra
