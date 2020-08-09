@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "17938176013",
+    "firebase_url": "https://bwamov-dd786.firebaseio.com",
+    "project_id": "bwamov-dd786",
+    "storage_bucket": "bwamov-dd786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17938176013:android:0bb2cb0355fb0d869c9d44",
+        "android_client_info": {
+          "package_name": "com.dicoding.bwamov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17938176013-35r64ecefkrj2jugv2eeclbl184or9bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdTd3xZBomupfrd2nDDHX9m5yWeJGi6i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17938176013-35r64ecefkrj2jugv2eeclbl184or9bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

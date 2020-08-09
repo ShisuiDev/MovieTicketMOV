@@ -1,0 +1,85 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BWAMov</string>
+
+    <string name="lewati_perkenalan">Lewati Perkenalan</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="now_playing">Now Playing</string>
+
+    <string name="now_playing_Deskripsi">Lebih Mudah Mengetahui film yang sedang tampil</string>
+    <string name="pre_sale_deskripsi">Tidak khawatir ketinggalan update film terbaru</string>
+    <string name="pre_sale">Pre Sale</string>
+
+    <string name="cashless">Cashless</string>
+    <string name="cashless_deskripsi">Gunakan e-wallet untuk transaksi tiket nonton</string>
+    <string name="memulai">Memulai</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <string name="masuk_akun">Masuk Akun</string>
+    <string name="daftar_akun_baru">Daftar Akun Baru</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email_address">Email Address</string>
+    <string name="nama">Nama</string>
+    <string name="uppload_nanti">Upload Nanti</string>
+    <string name="photo">Photo</string>
+    <string name="selamat_datang">Selamat Datang\n Angga Risky</string>
+    <string name="simpan_dan_lanjutkan">Simpan dan Lanjutkan</string>
+    <string name="idr_200_000">IDR 200.000</string>
+    <string name="angga_risky">Angga Risky</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="avenger">Avengers: Infinity War</string>
+    <string name="genre">Action, Sci-fi, Kids</string>
+    <string name="who">Who’s Played</string>
+    <string name="storyboard">The Avengers must stop Thanos, a mad Titan, and his army from getting their hands on all the infinity stones. However, the mad Titan is prepared to go to any lengths to carry out his insane plan.</string>
+    <string name="story">Storyboard</string>
+
+    <string name="pilih_bangku">Pilih Bangku</string>
+    <string name="nama_film">Alita Battle</string>
+    <string name="layar">LAYAR BIOSKOP</string>
+    <string name="beli_tiket">Beli Tiket</string>
+    <string name="empty">Empty</string>
+    <string name="booked">Booked</string>
+    <string name="selected">Selected</string>
+    <string name="checkout">Checkout</string>
+    <string name="bayar_sekarang">Bayar Sekarang</string>
+    <string name="batalkan">Batalkan</string>
+    <string name="when">When</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="cinema">Cinema</string>
+
+    <string name="time">12 Aug, 10 AM</string>
+    <string name="depok_mall_cinema_3">Depok Mall, Cinema 3</string>
+    <string name="items">Items</string>
+    <string name="seat_c1">Seat No.C1</string>
+    <string name="seat_no_c2">Seat No.C2</string>
+    <string name="idr">IDR</string>
+    <string name="_70_000">70.000</string>
+    <string name="bayar">Total Harus dibayar</string>
+    <string name="_120_000">120.000</string>
+    <string name="e_wallet">E-Wallet</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="idr_200_">IDR 200.000</string>
+    <string name="tidak_cukup">Saldo pada e-wallet kamu tidak mencukupi\n untuk melakukan transaksi</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="simpan_data_baru">Simpan Data Baru</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="idr_280_000">IDR 280.000</string>
+    <string name="saldo_tersedia">Saldo Tersedia</string>
+
+    <string name="daftar_transaksi">Daftar Transaksi</string>
+    <string name="history">History</string>
+    <string name="_2_409_movies">2,409 Movies</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_7">7</string>
+    <string name="tittle">Tittle</string>
+    <string name="_4">4</string>
+    <string name="seat_no_a1">Seat no A1</string>
+    <string name="idr_70000">IDR 70000</string>
+    <string name="watching">Semoga Harimu\nMenyenangkan</string>
+    <string name="nonton">kamu berhasil membeli tiket\njangan lupa untuk menonton ya ^^</string>
+    <string name="lihat_tiket">Lihat Tiket</string>
+    <string name="beranda">Beranda</string>
+</resources>
